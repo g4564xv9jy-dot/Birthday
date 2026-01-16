@@ -121,8 +121,7 @@ img {
 }
 
 .cake {
-    transform: translateY(-50%);
-    transform: translateX(-50%);
+    transform: translate(-50%, 10%);
     left: 50%;
     position: absolute;
     padding-top: 250px;
